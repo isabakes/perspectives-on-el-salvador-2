@@ -1,7 +1,7 @@
 ---
 layout: page
 title: American Studies Project
-permalink: american-studies-project
+permalink: american-studies
 show-title: true
 ---
 
