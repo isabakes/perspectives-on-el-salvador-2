@@ -15,26 +15,12 @@ nav-menu:
     link: index
   - title: About
     link: about
-  - title: Homilies
-    link: homilies
-    submenu:
-      - title: Preface
-        link: preface
-      - title: Feasts of Saint Peter & Paul
-        link: aelfric-peter-paul
-      - title: Assumption of the Blessed Virgin Mary
-        link: aelfric-assumption-mary
-      - title: All Saints' Day
-        link: aelfric-all-saints
-  - title: Ælfric's World
-    link: world
-    submenu:
-      - title: Historical Context
-        link: history
-      - title: Geography of Cerne
-        link: geography
-      - title: Liturgical Year
-        link: liturgical-year
+  - title: American Studies Project
+    link: american-studies
+  - title: Intro to Digitial Humanities
+    link: intro-to-dh
+  - title: Other Resources
+    link: other-resources
 
 # sets whether a search bar appears on the site header
 # NOTE, you will have to increase the site of teh $site-header-height in _sass/theme-settings.scss to to see the search bar
