@@ -1,6 +1,6 @@
 # change the followings to match your Github username and repo name
-baseurl: "/aelfric-online" # the name of your github repo
-url: "https://BCDigSchol.github.io" # the url of your github pages
+baseurl: "/perspectives-on-el-salvador-2" # the name of your github repo
+url: "https://isabakes.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Ælfric Online"
@@ -42,8 +42,8 @@ search-bar: false
 
 hide-footer: false # set to true to hide the footer
 footer-message: Ælfric Online | CC BY-NC License
-footer-submessage:  By Chase Hockema, with the Digital Scholarship Group, Boston College
-footer-submessage-link: https://ds.bc.edu
+footer-submessage:  By Isabella Baker, Boston College
+footer-submessage-link: https://ib.bc.edu
 
 # google-analytics: // if you want to use Google analytics, include your ID here
 
