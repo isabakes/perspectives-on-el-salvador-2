@@ -3,8 +3,8 @@ baseurl: "/perspectives-on-el-salvador-2" # the name of your github repo
 url: "https://isabakes.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
-title: "Ælfric Online"
-description: Jekyll site for the Ælfric Online Project @ Boston College
+title: "Perspectives on El Salvador"
+description: Jekyll site for the Isabella Baker's Perspectives on El Salvador Project @ Boston College
 
 # color theme for links
 theme-color: indigo # indigo|yellow|pink|green|stone|
