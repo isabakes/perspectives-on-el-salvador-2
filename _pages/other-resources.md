@@ -12,7 +12,7 @@ Click here to see the [Poema Lejano de Amor Project](http://marioquiroz.com/poem
 
 ![Image of a man with a bird on his shoulder](/assets/img/poema-lejano-man.jpg)
 
---
+
 El Salvador: State of Exemption
 --
 
@@ -20,7 +20,7 @@ Click here to see the [El Salvador: State of Exemption photo series](https://www
 
 ![Image of two FMLN guerilla fighters](/assets/img/fmln-guerillas.jpg)
 
---
+
 The Dark Triangle
 --
 
