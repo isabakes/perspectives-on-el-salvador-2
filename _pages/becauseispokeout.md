@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intro to Digital Humanities
-permalink: becauseispokeout
+permalink: because-i-spoke-out
 show-title: true
 ---
 
