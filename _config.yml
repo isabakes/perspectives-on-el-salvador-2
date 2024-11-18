@@ -19,6 +19,9 @@ nav-menu:
     link: american-studies
   - title: Intro to Digitial Humanities
     link: intro-to-dh
+    submenu: 
+      - title: Because I Spoke Out
+        link: because-i-spoke-out
   - title: Other Resources
     link: other-resources
 
