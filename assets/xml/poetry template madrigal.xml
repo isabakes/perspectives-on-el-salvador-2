@@ -1,4 +1,7 @@
-<?oxygen RNGSchema="http://digitalhumanities.unl.edu/resources/schemas/tei/TEIP5.3.6.0/tei_all.rng" type="xml"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_all.xsd" type="xml-dtd"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="madrigal">
     <teiHeader>
         <fileDesc>
