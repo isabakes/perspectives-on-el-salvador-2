@@ -14,7 +14,6 @@ h1 {text-align: center;}
 <body>
 </body>
 </html>
---
 <table border="0">
  <tr>
     <td><b style="font-size:22px"><i>Because I Spoke Out</i> - English Translation</b></td>
