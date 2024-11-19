@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Intro to Digital Humanities
+title: "The Bad Example" by Roque Dalton
 permalink: the-bad-example
 show-title: true
 ---
-
 <table border="0">
  <tr>
-    <td><b style="font-size:20px"><i>The Bad Example</i> ~ English Translation</b></td>
-    <td><b style="font-size:20px"><i>The Bad Example</i> ~ Spanish Translation</b></td>
+    <td><b style="font-size:20px"><i>The Bad Example</i> - English Translation</b></td>
+    <td><b style="font-size:20px"><i>The Bad Example</i> - Spanish Translation</b></td>
  </tr>
  <tr>
     <td><object data="assets/pdfs/the-bad-example-english.pdf" type="application/pdf" width="425px" height="425px">
