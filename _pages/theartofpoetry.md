@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intro to Digital Humanities
-permalink: theartofpoetry
+permalink: the-art-of-poetry
 show-title: true
 ---
 
