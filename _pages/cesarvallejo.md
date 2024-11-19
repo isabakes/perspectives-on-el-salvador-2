@@ -2,7 +2,24 @@
 layout: page
 title: Intro to Digital Humanities
 permalink: cesar-vallejo
-show-title: true
+show-title: false
 ---
-
-César Vallejo
+<table border="0">
+ <tr>
+    <td><b style="font-size:26px"><i>César Vallejo</i> - English Translation</b></td>
+    <td><b style="font-size:26px"><i>César Vallejo</i> - Spanish Translation</b></td>
+ </tr>
+ <tr>
+    <td><object data="assets/pdfs/cesar-vallejo-english.pdf" type="application/pdf" width="500px" height="600px">
+    <embed src="assets/pdfs/cesar-vallejo-english.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdfs/cesar-vallejo-english.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+</td>
+    <td><object data="assets/pdfs/cesar-vallejo-spanish.pdf" type="application/pdf" width="500px" height="600px">
+    <embed src="assets/pdfs/cesar-vallejo-spanish.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdfs/cesar-vallejo-spanish.pdf">Download PDF</a>.</p>
+    </embed>
+</object></td>
+ </tr>
+</table>
