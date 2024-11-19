@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "The Bad Example" by Roque Dalton
+title: Intro to Digital Humanities
 permalink: the-bad-example
-show-title: true
+show-title: false
 ---
 <table border="0">
  <tr>
