@@ -9,6 +9,6 @@ show-title: true
 ![Image a Salvadoran decoration printed with the colón, a defunct form of Salvadoran currency](assets/img/colon-decoration.PNG)
 </span>
 
---
+
 [Next page](subtitle.html)
 
