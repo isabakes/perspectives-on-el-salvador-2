@@ -5,12 +5,10 @@ permalink: the-bad-example
 show-title: true
 ---
 
-The Bad Example
---
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">The Bad Example English Translation</b></td>
-    <td><b style="font-size:30px">The Bad Example Spanish Translation</b></td>
+    <td><b style="font-size:20px"><i>The Bad Example</i> ~ English Translation</b></td>
+    <td><b style="font-size:20px"><i>The Bad Example</i> ~ Spanish Translation</b></td>
  </tr>
  <tr>
     <td><object data="assets/pdfs/the-bad-example-english.pdf" type="application/pdf" width="300px" height="300px">
