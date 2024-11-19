@@ -11,13 +11,13 @@ show-title: true
     <td><b style="font-size:20px"><i>The Bad Example</i> ~ Spanish Translation</b></td>
  </tr>
  <tr>
-    <td><object data="assets/pdfs/the-bad-example-english.pdf" type="application/pdf" width="500" height="500">
+    <td><object data="assets/pdfs/the-bad-example-english.pdf" type="application/pdf" width="400px" height="400px">
     <embed src="assets/pdfs/the-bad-example-english.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdfs/the-bad-example-english.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 </td>
-    <td><object data="assets/pdfs/the-bad-example-spanish.pdf" type="application/pdf" width="300px" height="300px">
+    <td><object data="assets/pdfs/the-bad-example-spanish.pdf" type="application/pdf" width="400px" height="400px">
     <embed src="assets/pdfs/the-bad-example-spanish.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdfs/the-bad-example-spanish.pdf">Download PDF</a>.</p>
     </embed>
