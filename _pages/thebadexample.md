@@ -6,8 +6,8 @@ show-title: false
 ---
 <table border="0">
  <tr>
-    <td><b style="font-size:25px"><i>The Bad Example</i> - English Translation</b></td>
-    <td><b style="font-size:25px"><i>The Bad Example</i> - Spanish Translation</b></td>
+    <td><b style="font-size:24px"><i>The Bad Example</i> - English Translation</b></td>
+    <td><b style="font-size:24px"><i>The Bad Example</i> - Spanish Translation</b></td>
  </tr>
  <tr>
     <td><object data="assets/pdfs/the-bad-example-english.pdf" type="application/pdf" width="500px" height="600px">
