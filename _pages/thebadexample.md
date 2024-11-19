@@ -8,7 +8,7 @@ show-title: true
 The Bad Example
 --
 
-<object data="assets/pdfs/the-bad-example-english.pdf" type="application/pdf" width="700px" height="700px">
+<object data="assets/pdfs/the-bad-example-english.pdf" type="application/pdf" width="300px" height="300px">
     <embed src="assets/pdfs/the-bad-example-english.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdfs/the-bad-example-english.pdf">Download PDF</a>.</p>
     </embed>
