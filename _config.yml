@@ -1,3 +1,4 @@
+
 # change the followings to match your Github username and repo name
 baseurl: "/perspectives-on-el-salvador-2" # the name of your github repo
 url: "https://isabakes.github.io" # the url of your github pages
@@ -19,9 +20,19 @@ nav-menu:
     link: american-studies
   - title: Intro to Digitial Humanities
     link: intro-to-dh
-    submenu: 
+    submenu:
+      - title: The Bad Example
+        link: the-bad-example
       - title: Because I Spoke Out
         link: because-i-spoke-out
+      - title: The Art of Poetry
+        link: the-art-of-poetry
+      - title: Madrigal
+        link: madrigal
+      - title: Megalomania
+        link: megalomania
+      - title: César Vallejo
+        link: cesar-vallejo
   - title: Other Resources
     link: other-resources
 
