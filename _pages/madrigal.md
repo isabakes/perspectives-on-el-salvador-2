@@ -6,8 +6,8 @@ show-title: false
 ---
 <table border="0">
  <tr>
-    <td><b style="font-size:27px"><i>Madrigal</i> - English Translation</b></td>
-    <td><b style="font-size:27px"><i>Madrigal</i> - Spanish Translation</b></td>
+    <td><b style="font-size:30px"><i>Madrigal</i> - English Translation</b></td>
+    <td><b style="font-size:30px"><i>Madrigal</i> - Spanish Translation</b></td>
  </tr>
  <tr>
     <td><object data="assets/pdfs/madrigal-english.pdf" type="application/pdf" width="500px" height="600px">
