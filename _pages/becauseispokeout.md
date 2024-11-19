@@ -6,8 +6,8 @@ show-title: false
 ---
 <table border="0">
  <tr>
-    <td><b style="font-size:24px"><i>Because I Spoke Out</i> - English Translation</b></td>
-    <td><b style="font-size:24px"><i>Because I Spoke Out</i> - Spanish Translation</b></td>
+    <td><b style="font-size:22px"><i>Because I Spoke Out</i> - English Translation</b></td>
+    <td><b style="font-size:22px"><i>Because I Spoke Out</i> - Spanish Translation</b></td>
  </tr>
  <tr>
     <td><object data="assets/pdfs/because-i-spoke-out-english.pdf" type="application/pdf" width="500px" height="600px">
