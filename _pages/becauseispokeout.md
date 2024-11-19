@@ -4,6 +4,8 @@ title: Intro to Digital Humanities
 permalink: because-i-spoke-out
 show-title: false
 ---
+<i>Because I Spoke Out</i> by Roque Dalton
+--
 <table border="0">
  <tr>
     <td><b style="font-size:22px"><i>Because I Spoke Out</i> - English Translation</b></td>
