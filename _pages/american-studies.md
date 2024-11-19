@@ -10,4 +10,4 @@ show-title: true
 </span>
 
 [Next page](subtitle.html)
-Isabella Baker
+
