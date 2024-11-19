@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intro to Digital Humanities
-permalink: cesarvallejo
+permalink: cesar-vallejo
 show-title: true
 ---
 
