@@ -8,7 +8,7 @@ Rough Draft
 --
   “What’s little understood is that the mass exodus to the United States earlier this year was actually 30 years in the making, fueled by American foreign policy decisions in the early 1980s and an act of Congress in the mid 1990s.” 
   
--  PBS NewsHour weekend, November 8, 2014
+-- PBS NewsHour weekend, November 8, 2014
 
 Introduction
 -- 
