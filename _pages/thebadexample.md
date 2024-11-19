@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Intro to Digital Humanities
-permalink: thebadexample
+permalink: the-bad-example
 show-title: true
 ---
 
