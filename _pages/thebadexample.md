@@ -6,3 +6,6 @@ show-title: true
 ---
 
 The Bad Example
+--
+
+embed src="assets/pdfs/The Bad Example English.pdf" type="application/pdf">
