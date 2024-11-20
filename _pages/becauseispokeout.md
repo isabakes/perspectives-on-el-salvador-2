@@ -23,3 +23,4 @@ show-title: false
 </object></td>
  </tr>
 </table>
+[Download the TEI file for this digital scholarly edition](/assets/xml/poetry template because I spoke out.xml) This file will download as a .xml format, which will not display properly on a traditonal word processor.
