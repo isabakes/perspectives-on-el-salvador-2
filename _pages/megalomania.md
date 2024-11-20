@@ -4,6 +4,8 @@ title: Intro to Digital Humanities
 permalink: megalomania
 show-title: false
 ---
+<a href="assets/xml/poetry template megalomania.xml" target="_blank">View the TEI file for this digital scholarly edition.</a>
+<p>This file will open as a .xml file in a new tab.</p>
 <table border="0">
  <tr>
     <td><b style="font-size:26px"><i>Megalomania</i> - English Translation</b></td>
@@ -23,5 +25,4 @@ show-title: false
 </object></td>
  </tr>
 </table>
-<a href="assets/xml/poetry template megalomania.xml" target="_blank">View the TEI file for this digital scholarly edition.</a>
-<p>This file will open as a .xml file in a new tab.</p>
+
