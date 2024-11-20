@@ -61,6 +61,16 @@
                     <note type="project">Transcribed from digital images of this translated editions of Dalton's poems.</note>
                 </bibl>
             </sourceDesc>
+            <sourceDesc>
+                <bibl>
+                    <author>Roque Dalton</author>
+                    <date when="2015">2015</date>
+                    <title>El Turno del Ofendido</title>
+                    <idno type="isbn">9781925019742</idno>
+                    <publisher>Ocean Sur</publisher>
+                    <note type="project">The Spanish text does not appear in this file, but is available as a PDF on the website.</note>
+                </bibl>
+            </sourceDesc>
         </fileDesc>
         <revisionDesc>
             <change who="#ib" when="2024-10-28">Created document and added basic structural TEI.</change>
@@ -68,33 +78,33 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="" xml:id="leaf001r" type="recto"/>
+            <pb facs="megalomania-english.pdf"/>
             <div1 type="poem">
                
                 <head type="main-authorial">MEGALOMANIA</head>
             
                 <lg type="stanza">
                 
-                    <l><persName>Frederick II</persName> was emperor of the <interp type="marxist-rhetoric">high-and-mighty</interp><ptr target="#no1"/>Germans and yet </l>
-                    <l><interp type="marxist-rhetoric">he was excommunicated by the <persName>Pope</persName></interp><ptr target="#no2"/></l>
+                    <l>Frederick II was emperor of the <interp type="marxist-rhetoric">high-and-mighty</interp><ptr target="#no1"/>Germans and yet </l>
+                    <l><interp type="marxist-rhetoric">he was excommunicated by the Pope</interp><ptr target="#no2"/></l>
                     <l>because he made the study of medicine a requisite for doctors </l>
                     <l>before they could prescribe infusions for a fee </l>
                     <l>or cut off flesh from a person's flesh. </l>
                     </lg>
                     <lg>
-                    <l><interp type="marxist-rhetoric"><persName>Miguel Servet</persName> was excommunicated shortly before</interp><ptr target="#no3"/></l> 
+                    <l><interp type="marxist-rhetoric">Miguel Servet was excommunicated shortly before</interp><ptr target="#no3"/></l> 
                     <l>they reduced him to ashes: </l>
                     <l>they say this was to speed it up for him</l> 
                     <l>to go on discussing the advanced sciences in restful eternity.</l>
                     </lg>
                     <lg>
-                    <l><persName>Martin Luther</persName> believed God the Father's divine liver acted up </l>
+                    <l>Martin Lutherbbelieved God the Father's divine liver acted up </l>
                     <l>whenever he looked through the clouds and saw fat priests </l>
-                    <l>running around </l> [note:justify right]
+                    <l>running around </l> <!--justify right-->
                     </lg>
                     <lg>
                     <l><interp type="marxist-rhetoric">city neighborhoods getting rich</interp><ptr target="#no4"/> from the sale of indulgences </l>
-                    <l>paid in hardcash, </l> [note: justify right]
+                    <l>paid in hardcash, </l> <!--justify right-->
                     </lg>
                     <lg>
                     <l><interp type="marxist-rhetoric">He was thrown out of the Church</interp><ptr target="#no5"/>for defending God's liver</l>

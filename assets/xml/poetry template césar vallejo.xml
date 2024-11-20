@@ -61,6 +61,16 @@
                     <note type="project">Transcribed from digital images of this translated editions of Dalton's poems.</note>
                 </bibl>
             </sourceDesc>
+            <sourceDesc>
+                <bibl>
+                    <author>Roque Dalton</author>
+                    <date when="2015">2015</date>
+                    <title>El Turno del Ofendido</title>
+                    <idno type="isbn">9781925019742</idno>
+                    <publisher>Ocean Sur</publisher>
+                    <note type="project">The Spanish text does not appear in this file, but is available as a PDF on the website.</note>
+                </bibl>
+            </sourceDesc>
         </fileDesc>
         <revisionDesc>
            <change who="#ib" when="2024-10-28">Created document and added basic structural TEI.</change>
@@ -68,11 +78,10 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="" xml:id="leaf001r" type="recto"/>
+            <pb facs="cesar-vallejo-english.pdf"/>
             <div1 type="poem">
                
-                <head type="main-authorial">CÉSAR VALLEJO</head> *I want to add a preliminary note about
-                Vallejo to contextualize the rest of my mark-up
+                <head type="main-authorial"><persName>CÉSAR VALLEJO</persName></head> 
             
                 <lg type="stanza">
                 

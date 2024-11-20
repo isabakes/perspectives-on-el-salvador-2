@@ -61,6 +61,16 @@
                     <note type="project">Transcribed from digital images of this translated editions of Dalton's poems.</note>
                 </bibl>
             </sourceDesc>
+            <sourceDesc>
+                <bibl>
+                    <author>Roque Dalton</author>
+                    <date when="2015">2015</date>
+                    <title>El Turno del Ofendido</title>
+                    <idno type="isbn">9781925019742</idno>
+                    <publisher>Ocean Sur</publisher>
+                    <note type="project">The Spanish text does not appear in this file, but is available as a PDF on the website.</note>
+                </bibl>
+            </sourceDesc>
         </fileDesc>
         <revisionDesc>
            <change who="#ib" when="2024-10-28">Created document and added basic structural TEI.</change>
@@ -68,7 +78,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="" xml:id="leaf001r" type="recto"/>
+            <pb facs="the-art-poetry-english.pdf" xml:id="leaf001"/>
             <div1 type="poem">
                
                 <head type="main-authorial">THE ART OF POETRY</head>
@@ -112,8 +122,7 @@
                     <l>they get drunk like God everywhere </l>
                     <l><interp type="marxist-rhetoric">they set their fists against despair</interp><ptr target="#no1"/></l>
                     <l><interp type="marxist-rhetoric">their avenging fires against crime</interp><ptr target="#no2"/> </l>
-                    </lg>
-                    <lg>
+                    <pb facs="the-art-poetry-english.pdf" xml:id="leaf002"/>
                     <l>their love with its interminable roots</l>
                     <l>against <interp type="marxist-rhetoric">hatred's vicious scythe.</interp><ptr target="#no3"/></l>
                     </lg>
