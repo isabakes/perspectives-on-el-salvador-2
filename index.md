@@ -6,6 +6,19 @@ show-title: false
 # Perpsectives on El Salvador, a Digital Collection
 
 ![Image of exiting customs line at Dulles International Airport](assets/img/salvadoran-customs-line.jpg)
+ <table border="0">
+ <tr>
+    <td><object data="assets/img/playa-de-sol.jpg" type="jpg" width="500px" height="600px">
+    <embed src="assets/img/playa-de-sol.jpg">
+    </embed>
+</object>
+</td>
+    <td><object data="assets/img/zacatecoluca.jpg" type="jpg" width="500px" height="600px">
+    <embed src="assets/img/zacatecoluca.jpg">
+    </embed>
+</object></td>
+ </tr>
+</table>
  
 "Perspectives on El Salvador" is an aspirational digital collection and project portfolio for Dr. Jessica Pauzsek's Archives in Action class. "Perspectives" attempts to create a new locus of Salvadoran and Salvadoran-American archival perspectives that mix being mediated and not mediated by outside forces -- namely, the U.S. government, as many Salvadoran objects are most easily accessible on U.S. government sites. This digital collection, which I hope to add to in the future, contains a variety of objects: multiple photography collections, poems by a radical Salvadoran poet, and a research essay closely analyzing a Salvadoran house decoration. These objects originate from the 1960s to the present day, as the 1960s marked a time of political turmoil and scapegoatism towards leftist or Marxist beliefs, and such political radicalism characterize El Salvador's modern government today.
 
