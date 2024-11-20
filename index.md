@@ -4,9 +4,9 @@ title: Home
 show-title: false
 ---
 <h1 style="text-align: center;">Perpsectives on El Salvador, a Digital Collection</h1>
-<span style="margin: 20px; border: 3px; border-color:#000000; border-style: solid;">
+
 ![Image of exiting customs line at Dulles International Airport](assets/img/salvadoran-customs-line.jpg)
-</span>
+
 <p style="text-align: center;">~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~</p>
 
 
