@@ -18,6 +18,9 @@ nav-menu:
     link: about
   - title: American Studies Project
     link: american-studies
+    submenu:
+      - title: Bibliography
+        link: as-bibliography
   - title: Intro to Digitial Humanities
     link: intro-to-dh
     submenu:
