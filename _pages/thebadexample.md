@@ -4,6 +4,8 @@ title: Intro to Digital Humanities
 permalink: the-bad-example
 show-title: false
 ---
+<a href="assets/xml/poetry template the bad example.xml" target="_blank">View the TEI file for this digital scholarly edition.</a>
+<p>This file will open as a .xml file in a new tab.</p>
 <table border="0">
  <tr>
     <td><b style="font-size:24px"><i>The Bad Example</i> - English Translation</b></td>
@@ -23,5 +25,4 @@ show-title: false
 </object></td>
  </tr>
 </table>
-<a href="assets/xml/poetry template the bad example.xml" target="_blank">View the TEI file for this digital scholarly edition.</a>
-<p>This file will open as a .xml file in a new tab.</p>
+
