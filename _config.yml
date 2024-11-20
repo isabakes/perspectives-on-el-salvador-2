@@ -19,6 +19,12 @@ nav-menu:
   - title: American Studies Project
     link: american-studies
     submenu:
+      - title: Rincón Mágico
+        link: rincon-magico
+      - title: What's in a Name
+        link: whats-in-a-name
+      - title: Adorning Ideologies
+        link: adorning-ideologies
       - title: Bibliography
         link: as-bibliography
   - title: Intro to Digitial Humanities
