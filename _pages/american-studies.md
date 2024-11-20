@@ -12,7 +12,7 @@ Rough Draft
 
 Introduction
 -- 
-<span style="float: right; width: 400px; margin: 15px; border: 8px;border-color: #000000;border-style:solid;">
+<span style="float: right; width: 400px; margin: 15px;">
 ![Image a Salvadoran decoration printed with the colón, a defunct form of Salvadoran currency](assets/img/colon-decoration.jpg)
 </span>
 Hanging in my Brighton apartment kitchen is a clunky-looking wooden decoration, gifted to my husband by his father as a house-warming present. I remember eyeing it when I first visited his Harvard dormitory sophomore year of college, as it stood out starkly against the pop culture posters and hastily painted walls of the century-old Cambridge building. The piece was the only “Salvadoran” identifier in the room – it contained strung prints of a defunct Salvadoran form of currency, and was crowned with colorful graphics and phrases boasting of El Salvador’s “magical” qualities.
@@ -22,5 +22,5 @@ My father-in-law – a Salvadoran immigrant himself – purchased this decoratio
 
 
 
-[Next page -->](subtitle.html)
+[Next page →](subtitle.html)
 
