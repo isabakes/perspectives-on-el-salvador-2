@@ -23,3 +23,5 @@ show-title: false
 </object></td>
  </tr>
 </table>
+<a href="assets/xml/poetry template the art of poetry.xml" target="_blank">View the TEI file for this digital scholarly edition.</a>
+<p>This file will open as a .xml file in a new tab.</p>
