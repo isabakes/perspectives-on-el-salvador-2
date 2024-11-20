@@ -21,5 +21,7 @@ show-title: false
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/pdfs/cesar-vallejo-spanish.pdf">Download PDF</a>.</p>
     </embed>
 </object></td>
+  <a href="assets/xml/poetry template césar vallejo.xml" target="_blank">View the TEI file for this digital scholarly edition.</a>
+<p>This file will open as a .xml file in a new tab.</p>
  </tr>
 </table>
