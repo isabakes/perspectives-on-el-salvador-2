@@ -4,6 +4,8 @@ title: Intro to Digital Humanities
 permalink: madrigal
 show-title: false
 ---
+<a href="assets/xml/poetry template mardigal.xml" target="_blank">View the TEI file for this digital scholarly edition.</a>
+<p>This file will open as a .xml file in a new tab.</p>
 <table border="0">
  <tr>
     <td><b style="font-size:30px"><i>Madrigal</i> - English Translation</b></td>
@@ -23,5 +25,4 @@ show-title: false
 </object></td>
  </tr>
 </table>
-<a href="assets/xml/poetry template mardigal.xml" target="_blank">View the TEI file for this digital scholarly edition.</a>
-<p>This file will open as a .xml file in a new tab.</p>
+
