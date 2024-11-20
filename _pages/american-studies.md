@@ -22,5 +22,5 @@ Introduction
 
 
 
-[Next page →](subtitle.html)
+[Next page →](rincon-magico.html)
 
