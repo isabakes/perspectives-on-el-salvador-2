@@ -1,15 +1,14 @@
-# aelfric-online
+# Perspectives on El Salvador
 
-*Jekyll website for the Aelfric Project @ [Boston College](https://bc.edu)*
+*Jekyll website for Archives in Action Final Project @ [Boston College](https://bc.edu)*
 
-By Chase Hockema, Boston College
+By Isabella Baker, Boston College
 
 ## About
 
-Ælfric of Eynsham, Ælfric of Cerne, Ælfric the Grammarian, Ælfric the Homilist—the 10th-century Benedictine monk and mass-priest has become known by many names, but at his core, Ælfric was a man devoted to the people under his care. Over his approximately 20-year-long career first as a monk at Cerne Abbas and then as the abbot at Eynsham, Ælfric wrote an incredible number of homilies that could be delivered to the people. While his particularly stunning Lives of Saints tends to receive a considerable amount of scholarly attention, the 80 homilies he wrote in two series can tell us a considerable amount about life and religion in late-Saxon England. 
+"Perspectives on El Salvador" is an aspirational digital collection and project portfolio for Dr. Jessica Pauzsek's Archives in Action class. "Perspectives" attempts to create a new locus of Salvadoran and Salvadoran-American archival perspectives that mix being mediated and not mediated by outside forces -- namely, the U.S. government, as many Salvadoran objects are most easily accessible on U.S. government sites. This digital collection, which I hope to add to in the future, contains a variety of objects: multiple photography collections, poems by a radical Salvadoran poet, and a research essay closely analyzing a Salvadoran house decoration. These objects originate from the 1960s to the present day, as the 1960s marked a time of political turmoil and scapegoatism towards leftist or Marxist beliefs, and such political radicalism characterize El Salvador's modern government today.
 
-Ælfric Online begins to collect translations of Ælfric's first series of Catholic homilies, pairing them side-by-side with the original Old English text. On this site, you can also find brief contextualizing information about Ælfric's world in 10th-century England, as well as links throughout to the manuscripts containing his work.
-
+This collection also serves to unify my final projects for all three of my first semester graduate school classes. The tab marked "American Studies Project" contains a variety of webpages that form a formal research paper and Prownian analysis of a Salvadoran decoration, which I am treating as a cultural artifact. The tab marked "Intro to Digital Humanities" contains six different digital editions of translated poems by Salvadoran poet Roque Dalton. Eahc poem is marked up via TEI to note and analyze instances of Marxist rhetoric, defined as such by secondary scholarship that isolates Marx's rhetorical strategies. Each poem is also presented in English and Spanish as PDFs.
 ## Local Development
 
 * Follow [this guide](https://jekyllrb.com/docs/installation/) to install Ruby and Jekyll
