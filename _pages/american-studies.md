@@ -22,5 +22,5 @@ My father-in-law – a Salvadoran immigrant himself – purchased this decoratio
 
 
 
-[Next page](subtitle.html)
+[Next page -->](subtitle.html)
 
