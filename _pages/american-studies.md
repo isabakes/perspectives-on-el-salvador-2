@@ -12,7 +12,7 @@ Rough Draft
 
 Introduction
 -- 
-<span style="float: right; width: 400px; margin: 20px;">
+<span style="float: right; width: 400px; margin: 15px;">
 ![Image of a Salvadoran decoration printed with the colón, a defunct form of Salvadoran currency](assets/img/colon-decoration.jpg)
 *My Salvadoran colón decoration hanging in my kitchen.*
 </span>
@@ -20,7 +20,7 @@ Introduction
 
   My father-in-law – a Salvadoran immigrant himself – purchased this decoration in San Miguelito market in San Salvador. The market is one of many in El Salvador that serves as a shopping hub – where vendors sell food, clothing, and handmade crafts and artisanal items. It is important to note that many of the artisanal items, mostly art pieces and housewares made out of clay or wood and then painted, are sold right alongside cheaper looking, mass-printed items. These mass-made objects are characterized by choppy (not well-integrated) graphic design, fuzzy or poor quality printed images, and are usually on some sort of factory-made base, like a plain t-shirt, plain white mug, etc. The existence of two types of commodities – hand-made versus machine-made – elicits a complex narrative about cultural production that can be further explained by looking at colonial hierarchies.
   
-<span style="float: left; width: 400px; margin: 20px;">
+<span style="float: left; width: 400px; margin: 15px;">
 ![Image of a Salvadoran market stall](assets/img/la-palma-artisinal-shop.jpg)
 *A La Palma market stall, lined with a variety of goods.*
 </span>
