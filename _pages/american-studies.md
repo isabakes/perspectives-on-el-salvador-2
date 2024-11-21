@@ -14,6 +14,7 @@ Introduction
 -- 
 <span style="float: right; width: 400px; margin: 20px;">
 ![Image of a Salvadoran decoration printed with the colón, a defunct form of Salvadoran currency](assets/img/colon-decoration.jpg)
+*My Salvadoran colón decoration hanging in my kitchen.*
 </span>
   Hanging in my Brighton apartment kitchen is a clunky-looking wooden decoration, gifted to my husband by his father as a house-warming present. I remember eyeing it when I first visited his Harvard dormitory sophomore year of college, as it stood out starkly against the pop culture posters and hastily painted walls of the century-old Cambridge building. The piece was the only “Salvadoran” identifier in the room – it contained strung prints of a defunct Salvadoran form of currency, and was crowned with colorful graphics and phrases boasting of El Salvador’s “magical” qualities.
 
@@ -21,6 +22,7 @@ Introduction
   
 <span style="float: left; width: 400px; margin: 20px;">
 ![Image of a Salvadoran market stall](assets/img/la-palma-artisinal-shop.jpg)
+*A La Palma market stall, lined with a variety of goods.*
 </span>
   Handmade crafts and artisanal items have been historically central to Salvadoran culture and even social survival, especially during the height of Spanish colonialism. Following the early sixteenth century Spanish invasion of Central America, what is now present-day El Salvador was considered on the “periphery,” meaning, it was a nation “outside of the modern and developed center.” (Osegueda and Ricardo 1) Furthermore, a racial hierarchy was formed that influenced social mobility and economic standing for different “classes” of people within a nation with minimized colonial potential. This ethnic division where “Spaniards were above all others, followed by “Indios,” and, finally, enslaved Africans,” reflected this socioeconomic hierarchy (Osegueda and Ricardo 2). The “Indios” (indigenous people) who were towards the bottom of the hierarchy thus “had to engage in craft activities or share their subsistence tasks” (Osegueda and Ricardo 2). In short, crafting and low-level artisanal production have historically characterized the Salvadoran economy, following their presumed “periphery” status. 
   
