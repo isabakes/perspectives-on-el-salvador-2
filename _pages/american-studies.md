@@ -28,5 +28,11 @@ Introduction
   
   Today, this importance in crafts and artisanal items is reflected through marketed tourist activities. El Salvador tourism sites boast about the six cities of the “El Salvador Arts and Crafts Route,” taking you through the towns of Ilobasco, San Ignacio, La Palma, Suchitoto, Citala, and San Sebastian (Galdamez). I myself have visited the town of Ilobasco, which is lined with open buildings filled with these crafts. It is fascinating to note that despite the historical significance of hand-made items, from a distance, they appear no different from machine-made items.
 
+<span style="float: right; width: 400px; margin: 15px;">
+![Handmade mugs next to mass-produced mugs](assets/img/la-palma-artisinal-shop-close-up.jpg)
+*Handmade mugs next to mass-produced mugs.*
+</span>
+  These items not only boast of Salvadoran culture through mass evidence of this form of crafting as subsistence, but also in the symbols and rhetoric literally painted or printed on these objects. Explicit connections to El Salvador seem to hold traction for tourist, marketing purposes, but perhaps a level of nationalism held by Salvadorans and Salvadoran immigrants who are finally able to come back home to visit. This nationalism, I assert, has specifically peaked after the Salvadoran Civil War, the election of current-day President Bukele, and a slew of U.S. policies that affected the Salvadoran economy and welfare of its government and citizens.
+
 [Next page →](rincon-magico.html)
 
