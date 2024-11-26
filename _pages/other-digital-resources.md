@@ -39,4 +39,4 @@ L.A. Public Library Photo Collection
 
 Click here to view the small section of the [L.A. Public Library Photo Collection](https://tessa2.lapl.org/digital/collection/photos/search/searchterm/Salvadoran%20Americans--California--Los%20Angeles./field/subjec/mode/exact/conn/and) that houses pictures of Salvadoran-American citizens living in Los Angeles in the late twentieth century, held at the TESSA Digital Collections of the Los Angeles Public Library.
 
-<img src="assets/img/lalibrary.jpg" alt="Image of Savadoran-American L.A. citizens, Pillar Morrojin and her two sons" width="200"/>
+<img src="assets/img/lalibrary.jpg" alt="Image of Savadoran-American L.A. citizens, Pillar Morrojin and her two sons" width="1000"/>
