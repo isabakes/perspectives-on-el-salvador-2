@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other Resources
-permalink: other-resources
+title: Other Digital Resources
+permalink: other-digital-resources
 show-title: true
 ---
 
