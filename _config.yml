@@ -44,6 +44,9 @@ nav-menu:
         link: cesar-vallejo
   - title: Other Digital Resources
     link: other-digital-resources
+    submenu:
+      - title: Other Archives
+        link: other-archives
 
 # sets whether a search bar appears on the site header
 # NOTE, you will have to increase the site of teh $site-header-height in _sass/theme-settings.scss to to see the search bar
