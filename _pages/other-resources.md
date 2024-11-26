@@ -27,4 +27,9 @@ Click here to see [The Dark Triangle photo series](https://fred-ramos.com/the-da
 
 ![Image of a Central-American family at a cemetary](assets/img/family-at-cemetary.jpg)
 
-Isabella Baker
+Unaccompanied
+--
+
+Click here to listen to Salvadoran-American poet and author Jaview Zamora reading from his [poetry collection "Unaccompanied"](https://www.loc.gov/item/2019408291/) which tells of his home in El Salvador, his crossing into the U.S., ensuing trauma, aftermath, and healing.
+
+![Image of Javier Zamora next to his best-selling memoir, <i>Solito</i>, and his poetry collection, <i>Unaccompanied</i>](assets/img/zamora.jpg)
