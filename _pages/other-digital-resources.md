@@ -7,13 +7,10 @@ show-title: true
 
 Poema Lejano de Amor Project
 ---
-
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="#about">About</a>
-  <a href="#contact">Contact</a>
-  <input type="text" placeholder="Search..">
-</div>
+<form action="/search/" method="post" />
+    <input type="search" name="search" id="Search" placeholder="Search" />
+    <input type="submit" name="search" value="Search" />
+</form>
 
 Click here to see the [Poema Lejano de Amor Project](http://marioquiroz.com/poema-lejano-de-amor-project.html), a photograph series by Salvadoran-American photographer Mario Quiroz.
 
