@@ -8,6 +8,13 @@ show-title: true
 Poema Lejano de Amor Project
 ---
 
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#contact">Contact</a>
+  <input type="text" placeholder="Search..">
+</div>
+
 Click here to see the [Poema Lejano de Amor Project](http://marioquiroz.com/poema-lejano-de-amor-project.html), a photograph series by Salvadoran-American photographer Mario Quiroz.
 
 ![Image of a man with a bird on his shoulder](assets/img/poema-lejano-man.jpg)
