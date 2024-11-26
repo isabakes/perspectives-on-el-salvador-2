@@ -33,3 +33,10 @@ Unaccompanied
 Click here to listen to Salvadoran-American poet and author Jaview Zamora reading from his [poetry collection "Unaccompanied"](https://www.loc.gov/item/2019408291/) which tells of his home in El Salvador, his crossing into the U.S., ensuing trauma, aftermath, and healing.
 
 ![Image of Javier Zamora next to his best-selling memoir, <i>Solito</i>, and his poetry collection, <i>Unaccompanied</i>](assets/img/zamora.jpg)
+
+L.A. Public Library Photo Collection 
+--
+
+Click here to view the small section of the [L.A. Public Library Photo Collection](https://tessa2.lapl.org/digital/collection/photos/search/searchterm/Salvadoran%20Americans--California--Los%20Angeles./field/subjec/mode/exact/conn/and) that houses pictures of Salvadoran-American citizens living in Los Angeles in the late twentieth century, held at the TESSA Digital Collections of the Los Angeles Public Library.
+
+![Image of Savadoran-American L.A. citizens, Pillar Morrojin and her two sons](assets/img/lalibrary.jpg)
