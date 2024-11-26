@@ -13,3 +13,4 @@ The archives below host a variety of perspectives, though admittedly, most of th
 4. [El Salvador: War, Peace, and Human Rights, 1980-1994](https://nsarchive2.gwu.edu/nsa/publications/elsalvador2/), from the National Security Archive
 5. [American Archive of Public Broadcasting](https://americanarchive.org/catalog?f%5Bexhibits%5D%5B%5D=newshour-cold-war%2Fel-salvador&sort=asset_date+asc&f[access_types][]=online)
 6. [The Freedom Archives](https://search.freedomarchives.org/search.php?view_collection=320)
+7. [University of Colorado Boulder Libraries](https://archives.colorado.edu/repositories/2/resources/521)
