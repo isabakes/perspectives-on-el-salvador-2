@@ -16,8 +16,8 @@ show-title: false
 
   To my professors, please explore your section (and any others) as much as you'd like. Here is a guide for any professor that ends up on the home page:
 
-  <b>Dr. Pauszek:</b> Everything and anything is fine to focus on! The meat of my digital collection (and thick descriptions), however, are in the [Salvadoran Digital Resources](_pages/salvadoran-digital-resources.md) and [Salvadoran Archives](_pages/salvadoran-archives.md) pages.
+  <b>Dr. Pauszek:</b> Everything and anything is fine to focus on! The meat of my digital collection (and thick descriptions), however, are in the [Salvadoran Digital Resources](salvadoran-digital-resources.md) and [Salvadoran Archives](salvadoran-archives.md) pages.
 
- <b> Dr. Picone:</b> I would suggest starting on the [Intro to Digital Humanities](_pages/intro-to-dh.md) page, which has an introduction and methods section to preface my TEI. Each poem in the dropdown submenu has its own TEI digital edition and bilingual PDFs to accompany them.
+ <b> Dr. Picone:</b> I would suggest starting on the [Intro to Digital Humanities](intro-to-dh.md) page, which has an introduction and methods section to preface my TEI. Each poem in the dropdown submenu has its own TEI digital edition and bilingual PDFs to accompany them.
 
-<b>  Dr. Klein:</b> The [American Studies Project](_pages/american-studies.md) tab houses my research paper. I would start at the American Studies Project main tab itself, which includes my paper introduction. If you don't want to click on submenus to go to the next paper section (organized by subheading), simply click "next page" on the bottom of each page in the American Studies tab group.
+<b>  Dr. Klein:</b> The [American Studies Project](american-studies.md) tab houses my research paper. I would start at the American Studies Project main tab itself, which includes my paper introduction. If you don't want to click on submenus to go to the next paper section (organized by subheading), simply click "next page" on the bottom of each page in the American Studies tab group.
