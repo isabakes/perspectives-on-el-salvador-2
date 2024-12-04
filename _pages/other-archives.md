@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other Archives
-permalink: other-archives
+title: Salvadoran Archives
+permalink: salvadoran-archives
 show-title: true
 ---
 ## A Note on the Archives Listed
