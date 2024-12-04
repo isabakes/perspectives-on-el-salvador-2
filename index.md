@@ -16,7 +16,7 @@ show-title: false
 
   To my professors, please explore your section (and any others) as much as you'd like. Here is a guide for any professor that ends up on the home page:
 
-  <b>Dr. Pauszek:</b> Everything and anything is fine to focus on! The meat of my digital collection (and thick descriptions), however, are in the [Salvadoran Digital Resources](https://isabakes.github.io/perspectives-on-el-salvador-2/salvadoran-digital-resources) and [Salvadoran Archives](https://isabakes.github.io/perspectives-on-el-salvador-2/salvadoran-archives) pages.
+  <b>Dr. Pauszek:</b> Everything and anything is fine to focus on! The meat of my digital collection (and thick descriptions), however, are in the [Salvadoran Digital Resources](salvadoran-digital-resources) and [Salvadoran Archives](salvadoran-archives) pages.
 
  <b> Dr. Picone:</b> I would suggest starting on the [Intro to Digital Humanities](intro-to-dh.md) page, which has an introduction and methods section to preface my TEI. Each poem in the dropdown submenu has its own TEI digital edition and bilingual PDFs to accompany them.
 
