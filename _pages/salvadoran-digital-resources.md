@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other Digital Resources
-permalink: other-digital-resources
+title: Salvadoran Digital Resources
+permalink: salvadoran-digital-resources
 show-title: true
 ---
 
