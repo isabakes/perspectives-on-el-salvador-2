@@ -5,7 +5,7 @@ permalink: salvadoran-digital-resources
 show-title: true
 ---
 
-Poema Lejano de Amor Project 1
+Poema Lejano de Amor Project 
 ---
 
 Click here to see the [Poema Lejano de Amor Project](http://marioquiroz.com/poema-lejano-de-amor-project.html), a photograph series by Salvadoran-American photographer Mario Quiroz. “Poema Lejano de Amor” translates to the “Far Away Love Poem,” and is a reference to 20th century Salvadoran poet Roque Dalton’s most famous poem, “Poema de Amor.” Quiroz takes a series of black-and-white photographs of Salvadoran-Americans living in Boston, Massachusetts in order to explore the theme of conveying national and cultural identity and pride even while being far away from your country of birth. Each photograph is meant to correspond with a line in Dalton’s original poem in Spanish, though in the audio presentation, Quiroz recites the poem in English.
